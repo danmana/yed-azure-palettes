@@ -12,6 +12,7 @@ import org.w3c.dom.svg.SVGDocument;
 import java.awt.Dimension;
 import java.awt.geom.Rectangle2D;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.util.Objects;
@@ -114,8 +115,9 @@ public class Icon {
     public static Icon fromFile(File svg) {
         final String parser = XMLResourceDescriptor.getXMLParserClassName();
         final SAXSVGDocumentFactory factory = new SAXSVGDocumentFactory(parser);
-        try {
-            return new Icon(factory.createSVGDocument(svg.getAbsolutePath()), svg.getName(), getReadableName(svg.getName()));
+        try(var fis = new FileInputStream(svg)) {
+
+            return new Icon(factory.createSVGDocument(null, fis), svg.getName(), getReadableName(svg.getName()));
         } catch (IOException e) {
             throw new RuntimeException("Error parsing " + svg.getAbsolutePath(), e);
         }
