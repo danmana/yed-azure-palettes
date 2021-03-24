@@ -1,8 +1,10 @@
 # AWS Simple Icons Palettes for yED
 
-[yED](http://www.yworks.com/en/products/yfiles/yed/) is an awesome diagraming software. [AWS Simple Icons](https://aws.amazon.com/architecture/icons/) is an AWS-created icon set for use in architecture diagrams.
+[yED](http://www.yworks.com/en/products/yfiles/yed/) is an awesome diagraming software. [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons/) is an Azure-created icon set for use in architecture diagrams.
 
-This repository contains pre-made palettes to import into yED to start diagramming with AWS Icons immediately!
+This repository contains pre-made palettes to import into yED to start diagramming with Azure Icons immediately!
+
+This repository was created based on the [yed-aws-palettes](https://github.com/JustDerb/yed-aws-palettes) repository. If you need AWS icons go check it out.
 
 ![Screenshot](screenshot.png)
 
@@ -32,7 +34,7 @@ This repo has minimal automation around it, so it should update at most daily. I
 
 ```bash
 # Grab latest URL from website
-URL=$(curl -s https://aws.amazon.com/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
+URL=$(curl -s https://docs.microsoft.com/en-us/azure/architecture/icons/ | grep 'Asset Package&nbsp;<i class="icon-download"></i>' | head -n1 | grep -oEi '//.*\.zip' | while read line; do echo "https:$line";  done)
 echo "Latest URL: $URL"
 # Run the updater, commiting the results
 ./update.sh "$URL" true
