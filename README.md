@@ -1,4 +1,4 @@
-# AWS Simple Icons Palettes for yED
+# Azure Architecture Icons Palettes for yED
 
 [yED](http://www.yworks.com/en/products/yfiles/yed/) is an awesome diagraming software. [Azure Architecture Icons](https://docs.microsoft.com/en-us/azure/architecture/icons/) is an Azure-created icon set for use in architecture diagrams.
 
