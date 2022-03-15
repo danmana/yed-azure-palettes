@@ -6,6 +6,16 @@ This repository contains pre-made palettes to import into yED to start diagrammi
 
 This repository was created based on the [yed-aws-palettes](https://github.com/JustDerb/yed-aws-palettes) repository. If you need AWS icons go check it out.
 
+# Icon terms
+Microsoft releases these icons under the following [terms](https://docs.microsoft.com/en-us/azure/architecture/icons/#icon-terms):
+
+> Microsoft permits the use of these icons in architectural diagrams, training materials, or documentation. You may copy, distribute, and display the icons only for the permitted use unless granted explicit permission by Microsoft. Microsoft reserves all other rights.
+
+*Disclaimer:* by using the `*.graphml` generated palettes you agree to these terms.
+
+*Note:* all other code, except the generated icons is released under MIT license.
+# Preview
+
 ![Screenshot](screenshot.png)
 
 # Support
