@@ -24,7 +24,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00017 icon service Recovery Services Vaults]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="53" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -44,7 +44,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00691 icon service Azure Databox Gateway]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="43" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -64,7 +64,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00776 icon service Azure HCP Cache]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="55" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -124,7 +124,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10086 icon service Storage Accounts]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="49" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -144,7 +144,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10087 icon service Storage Accounts (Classic)]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="49" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -164,7 +164,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10089 icon service StorSimple Device Managers]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -184,7 +184,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10090 icon service Data Lake Storage Gen1]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="49" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -204,7 +204,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10091 icon service Storage Explorer]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="52" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -224,7 +224,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10092 icon service StorSimple Data Managers]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="46" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -244,7 +244,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10093 icon service Storage Sync Services]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="51" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -264,7 +264,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10094 icon service Data Box]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -284,7 +284,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10095 icon service Azure Stack Edge]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="44" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -304,7 +304,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10096 icon service Azure NetApp Files]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="49" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -324,7 +324,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10097 icon service Data Share Invitations]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="40" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -344,7 +344,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10098 icon service Data Shares]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="52" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -364,7 +364,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10100 icon service Import Export Jobs]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"

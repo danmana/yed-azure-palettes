@@ -24,7 +24,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10133 icon service Azure Database Migration Services]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="56" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"

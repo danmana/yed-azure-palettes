@@ -44,7 +44,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00412 icon service SSH Keys]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="53" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -64,7 +64,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00469 icon service Internet Analyzer Profiles]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="57" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -84,7 +84,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00559 icon service Azure Cloud Shell]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="42" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -104,7 +104,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00712 icon service Video Analyzers]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="43" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -124,7 +124,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00903 icon service ExpressRoute Direct]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="54" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -144,7 +144,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00913 icon service Cost Export]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="47" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -164,7 +164,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[00968 icon service Azure Communication Services]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="44" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -204,7 +204,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01001 icon service Azure Network Function Manager Functions]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="55" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -264,7 +264,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01219 icon service Azure VMware Solution]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="48" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -284,7 +284,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01285 icon service Peerings]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="52" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -304,7 +304,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01757 icon service Dashboard Hub]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="46" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -324,7 +324,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01800 icon service Azure Video Indexer]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="53" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -344,7 +344,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01846 icon service AVS VM]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -364,7 +364,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01848 icon service Arc PostgreSQL]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -384,7 +384,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01849 icon service Arc SQL Managed Instance]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -404,7 +404,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01850 icon service Arc SQL Server]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -424,7 +424,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[01857 icon service Data Collection Rules]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="59" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -444,7 +444,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02200 icon service Resource Mover]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="50" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -484,7 +484,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02237 icon service Network Managers]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="57" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -504,7 +504,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02322 icon service Dedicated HSM]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -544,7 +544,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02340 icon service Template Specs]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="51" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -564,7 +564,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02356 icon service Arc Data services]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -584,7 +584,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02360 icon service Azure Backup Center]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="55" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -604,7 +604,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02361 icon service Backup Vault]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="52" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -624,7 +624,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02475 icon service Device Update IoT Hub]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="53" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -644,7 +644,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02486 icon service Fiji]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="48" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -664,7 +664,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02488 icon service Azure Monitor Dashboard]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -704,7 +704,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02505 icon service Cloud Services (extended support)]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="52" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -724,7 +724,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02507 icon service Azure Support Center Blue]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="54" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -764,7 +764,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02518 icon service Azure HPC Workbenches]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="50" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -784,7 +784,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02560 icon service Disk Pool]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -804,7 +804,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02561 icon service Bare Metal Infrastructure]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="57" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -824,7 +824,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02573 icon service Connected Vehicle Platform]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="46" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -844,7 +844,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02579 icon service Private Endpoints]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -904,7 +904,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02638 icon service Reserved Capacity]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="52" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -944,7 +944,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02658 icon service FHIR Service]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="53" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -964,7 +964,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02660 icon service MedTech Service]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="54" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1024,7 +1024,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02681 icon service Entra Identity Licenses]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1044,7 +1044,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02691 icon service Test Base]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="43" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1084,7 +1084,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02732 icon service Capacity Reservation Groups]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="52" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1124,7 +1124,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02740 icon service Azure Network Function Manager]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="53" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1144,7 +1144,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02793 icon service Mission Landing Zone]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="57" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1164,7 +1164,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02794 icon service Mobile Networks]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="43" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1184,7 +1184,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02805 icon service VM App Definitions]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1244,7 +1244,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02819 icon service Resource Guard]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="50" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1264,7 +1264,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02828 icon service Ceres]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="53" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1284,7 +1284,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02842 icon service Azurite]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="59" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1344,7 +1344,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02865 icon service Community Images]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="57" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1404,7 +1404,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02884 icon service Worker Container App]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="59" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1424,7 +1424,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02905 icon service Azure Managed Grafana]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="47" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1444,7 +1444,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02908 icon service Targets Management]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="59" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1484,7 +1484,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02922 icon service Sonic Dash]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="56" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1544,7 +1544,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02944 icon service Azure Load Testing]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1564,7 +1564,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02949 icon service Virtual Visits Builder]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="46" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1584,7 +1584,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[02951 icon service Azure Quotas]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="43" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1624,7 +1624,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03071 icon service App Compliance Automation]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="44" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1644,7 +1644,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03089 icon service Virtual Instance for SAP]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="56" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1704,7 +1704,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03092 icon service Central Service Instance For SAP]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="32" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1744,7 +1744,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03137 icon service Express Route Traffic Collector]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="52" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1764,7 +1764,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03175 icon service Database Instance For SAP]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1824,7 +1824,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03251 icon service Azure Deployment Environments]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="58" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1884,7 +1884,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03361 icon service IcM Troubleshooting]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="49" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1904,7 +1904,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03365 icon service OSConfig]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="50" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -1924,7 +1924,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03394 icon service Virtual Enclaves]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="55" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2424,7 +2424,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03468 icon service HDI AKS Cluster]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="54" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2524,7 +2524,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10117 icon service Edge Management]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="59" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2564,7 +2564,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10190 icon service Azure Sphere]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2604,7 +2604,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10334 icon service Exchange On Premises Access]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="36" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2624,7 +2624,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10355 icon service WAC]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="55" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2644,7 +2644,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10422 icon service AzureAttestation]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="50" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -2684,7 +2684,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10846 icon service Web Jobs]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"

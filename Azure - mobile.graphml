@@ -24,7 +24,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[03335 icon service Power Platform]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="60" width="58" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
@@ -64,7 +64,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10045 icon service Notification Hubs]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="60" width="60" x="0" y="0"/>
+          <y:Geometry height="50" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
