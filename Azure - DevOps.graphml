@@ -224,7 +224,7 @@
       <data key="d6" xml:space="preserve"><![CDATA[10048 icon service API Connections]]></data>
       <data key="d7">
         <y:SVGNode>
-          <y:Geometry height="41" width="60" x="0" y="0"/>
+          <y:Geometry height="40" width="60" x="0" y="0"/>
           <y:Fill color="#CCCCFF" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
           <y:NodeLabel alignment="center" autoSizePolicy="content"
