@@ -71,15 +71,15 @@ public class Launcher {
             printErrorAndQuit(parser, "Found unknown files");
             return;
         }
-
+        
         final List<Icon> icons = this.svgs.parallelStream()
                 .map(Icon::fromFile)
                 .collect(Collectors.toList());
-
+        
         final Section section = new Section(icons, this.version, this.url);
         try (final InputStream templateResource = Objects.requireNonNull(
                 getClass().getResourceAsStream("/templates/section.mustache"),
-                "Template not found in JAR!")) {
+                "Template not found in JAR!")) {            
             final MustacheSectionTemplate template = new MustacheSectionTemplate(templateResource);
             template.render(this.out, section);
         }
