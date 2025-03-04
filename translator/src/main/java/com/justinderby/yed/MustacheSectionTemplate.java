@@ -35,14 +35,14 @@ public class MustacheSectionTemplate {
 
     private Map<String, String> transformToNodes(Icon icon, int id, int resourceId) {
         Map<String, String> node = new HashMap<>();
-        // Generate consistent UUIDs based on the icon name
-        node.put("uuid", UUID.nameUUIDFromBytes(icon.getRealName().getBytes(StandardCharsets.UTF_8)).toString());
-        node.put("tooltip", icon.getName());
-        node.put("filename", icon.getName());
-        node.put("id", String.valueOf(id));
-        node.put("resourceId", String.valueOf(resourceId));
-        node.put("height", String.valueOf(icon.getHeight()));
-        node.put("width", String.valueOf(icon.getWidth()));
+        // Generate consistent UUIDs based on the icon name        
+        node.put("uuid", UUID.nameUUIDFromBytes(icon.getRealName().getBytes(StandardCharsets.UTF_8)).toString());        
+        node.put("tooltip", icon.getName());        
+        node.put("filename", icon.getName());        
+        node.put("id", String.valueOf(id));        
+        node.put("resourceId", String.valueOf(resourceId));        
+        node.put("height", String.valueOf(icon.getHeight()));        
+        node.put("width", String.valueOf(icon.getWidth()));        
         return node;
     }
 
@@ -53,29 +53,29 @@ public class MustacheSectionTemplate {
         return node;
     }
 
-    public void render(File file, Section section) throws IOException {
+    public void render(File file, Section section) throws IOException {        
         final List<Map<String, String>> resources = new ArrayList<>(section.getIcons().size());
         final List<Map<String, String>> nodes = new ArrayList<>(section.getIcons().size());
         int id = 0;
-        int resourceId = 1;
-        for (Icon icon : section.getIcons()) {
-            resources.add(transformToResources(icon, resourceId));
-            nodes.add(transformToNodes(icon, id, resourceId));
-            id++;
-            resourceId++;
-        }
-
-        Map<String, Object> context = new HashMap<>();
-        context.put("resources", resources);
-        context.put("nodes", nodes);
-        context.put("asi-version", section.getVersion().orElse("unknown"));
-        context.put("asi-url", section.getUrl().orElse("unknown"));
-
+        int resourceId = 1;        
+        for (Icon icon : section.getIcons()) {            
+            resources.add(transformToResources(icon, resourceId));            
+            nodes.add(transformToNodes(icon, id, resourceId));            
+            id++;            
+            resourceId++;            
+        }        
+        Map<String, Object> context = new HashMap<>();        
+        context.put("resources", resources);        
+        context.put("nodes", nodes);        
+        context.put("asi-version", section.getVersion().orElse("unknown"));        
+        context.put("asi-url", section.getUrl().orElse("unknown"));        
+        
         try (Reader in = new InputStreamReader(this.template);
              Writer out = new FileWriter(file)) {
             Mustache mustache = this.mustacheFactory.compile(in, file.getName());
             mustache.execute(out, context);
         }
+        
     }
 
 }
